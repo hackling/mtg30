@@ -111,17 +111,7 @@ const rares = [
   "Winter Orb",
   "Word of Command",
   "Wrath of God",
-  "Zombie Master",
-  "Tropical Island",
-  "Tundra",
-  "Volcanic Island",
-  "Plateau",
-  "Bayou",
-  "Badlands",
-  "Savannah",
-  "Scrubland",
-  "Underground Sea",
-  "Taiga"
+  "Zombie Master"
 ];
 
 export default rares;
